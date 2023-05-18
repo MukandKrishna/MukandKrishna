@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
  -->
 ![Mukand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MukandKrishna&show_icons=true&theme=dracula)
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=MukandKrishna&show_icons=true&theme=tokyonight)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=MukandKrishna&show_icons=true&theme=tokyonight&layout=pie)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+This+is+Mukand+Krishna)](https://git.io/typing-svg)

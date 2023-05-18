@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=MukandKrishna&show_icons=true&theme=tokyonight) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=900&size=27&pause=1000&color=0963D5&background=DCD87BD2&center=true&vCenter=true&width=435&lines=Hello%2C+This+is+Mukand+Krishna)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=23&pause=1000&color=0963D5&center=true&vCenter=true&width=435&lines=Hello%2C+This+is+Mukand+Krishna)]

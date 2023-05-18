@@ -7,7 +7,7 @@ MukandKrishna/MukandKrishna is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ## **Achievements**
-[![trophy](https://github-profile-trophy.vercel.app/?username=MukandKrishna)]
+![trophy](https://github-profile-trophy.vercel.app/?username=MukandKrishna)
 
 <!-- [![Mukand's GitHub stats](https://github-readme-stats.vercel.app/api?username=MukandKrishna)](https://github.com/MukandKrishna/github-readme-stats)
  -->

@@ -36,10 +36,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a Computer Vision and Research Assistant at [FAST Karachi](https://www.nu.edu.pk/) (Aug–Present 2024), focusing on real-time anomaly detection and deployment to buidl a 1st ever prototype in Pakistan.  
-- 🌱 I’m currently diving deeper into **Advanced React**, **MLOps**, and **Deep Learning**.  
-- 💬 Ask me about **Docker**, **GCP**, **SQL**, **SPSS**, and **Data Visualization**.  
-- ⚡ Fun fact: I speak **Italian** and love exploring new languages!
+- 🔭 I’m a Computer Vision and Research Assistant at [FAST Karachi](https://www.nu.edu.pk/) (Aug–Present 2024), focusing on real-time anomaly detection and deployment to builf a 1st ever prototype in Pakistan.  
+- 🌱 I’m currently diving deeper into **Agentic AI** and **MLOps**.  
+- 💬 Ask me about **Docker**, **GCP**, **Scalable Systems** and **Agentic AI**.  
+- ⚡ Fun fact: I am learning **Italian** and love exploring new languages!
 
 ---
 

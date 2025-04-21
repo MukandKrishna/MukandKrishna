@@ -29,14 +29,14 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h1 align="center">
-  Hi 👋, I'm **Mukand Krishna** <br/>
+  Hi 👋, I'm Mukand Krishna <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=32&pause=1000&center=true&vCenter=true&width=500&lines=CS+Enthusiast;Research+Assistant;Dev+|+Learner+|+Maker" alt="Typing SVG"/>
 </h1>
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a **Computer Science Student** and Research Assistant at [FAST Karachi](https://www.nu.edu.pk/) (Aug–Present 2024), focusing on real-time anomaly detection and deployment to buidl a 1st ever prototype in Pakistan.  
+- 🔭 I’m a Computer Vision and Research Assistant at [FAST Karachi](https://www.nu.edu.pk/) (Aug–Present 2024), focusing on real-time anomaly detection and deployment to buidl a 1st ever prototype in Pakistan.  
 - 🌱 I’m currently diving deeper into **Advanced React**, **MLOps**, and **Deep Learning**.  
 - 💬 Ask me about **Docker**, **GCP**, **SQL**, **SPSS**, and **Data Visualization**.  
 - ⚡ Fun fact: I speak **Italian** and love exploring new languages!

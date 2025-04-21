@@ -44,10 +44,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a **Computer Science Student** and Research Assistant at [FAST Karachi](https://www.fast.edu.pk/) (Aug–Oct 2024), focusing on Docker deployment and real-time video processing with GCP FaaS.  
+- 🔭 I’m a **Computer Science Student** and Research Assistant at [FAST Karachi](https://www.nu.edu.pk/) (Aug–Present 2024), focusing on real-time anomaly detection and deployment to buidl a 1st ever prototype in Pakistan.  
 - 🌱 I’m currently diving deeper into **Advanced React**, **MLOps**, and **Deep Learning**.  
 - 💬 Ask me about **Docker**, **GCP**, **SQL**, **SPSS**, and **Data Visualization**.  
-- ⚡ Fun fact: I speak **Dhatki** and love exploring new languages!
+- ⚡ Fun fact: I speak **Italian** and love exploring new languages!
 
 ---
 
@@ -84,16 +84,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MukandKrishna&theme=radical&no-frame=true" alt="Trophies"/>
 </p>
-
----
-
-## 📂 Featured Projects
-
-| 🏷️ Project                          | 📝 Description                                                         | 🔗 Link                                                                                          |
-|-------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| Responsive Food Delivery Website    | A fully responsive, performance‑optimized website built with HTML & CSS. | [View Repo](https://github.com/MukandKrishna/Responsive_Food_Delivery_Website)                  |
-| EyeConAI Model Deployment           | Docker & GCP FaaS setup for real‑time computer vision solutions.         | [View Repo](https://github.com/MukandKrishna/eyeconai_deploy)                                    |
-| SPSS Hospital Analysis              | Comprehensive hospital preference & accessibility analysis using SPSS & Python. | [View Repo](https://github.com/MukandKrishna/SPS_S_Hospital_Analysis)                           |
 
 ---
 

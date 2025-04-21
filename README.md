@@ -32,14 +32,6 @@ You can click the Preview link to take a look at your changes.
   Hi 👋, I'm **Mukand Krishna** <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=32&pause=1000&center=true&vCenter=true&width=500&lines=CS+Enthusiast;Research+Assistant;Dev+|+Learner+|+Maker" alt="Typing SVG"/>
 </h1>
-
-<p align="center">
-  <a href="https://github.com/MukandKrishna"><img src="https://komarev.com/ghpvc/?username=MukandKrishna&color=brightgreen" alt="Profile views"/></a>
-  <a href="mailto:mukandrathi111@gmail.com"><img src="https://img.shields.io/badge/Email-youremail%40example.com-blue?style=for-the-badge" alt="Email me"/></a>
-  <a href="https://www.linkedin.com/in/beingkrishna"><img src="https://img.shields.io/badge/LinkedIn-BeingKrishna-blue?style=for-the-badge" alt="LinkedIn"/></a>
-  <!-- <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-@yourhandle-blue?style=for-the-badge" alt="Twitter"/></a> -->
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
@@ -93,11 +85,3 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/beingkrishna"><img src="https://img.shields.io/badge/LinkedIn-BeingKrishna-blue?style=for-the-badge" alt="LinkedIn"/></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-youremail%40example.com-red?style=for-the-badge" alt="Email"/></a>
 </p>
-
-<details>
-  <summary>⚡️ Show GitHub Activity Graph</summary>
-  <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=MukandKrishna&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-  </p>
-</details>
-

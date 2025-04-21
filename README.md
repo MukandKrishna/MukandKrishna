@@ -1,6 +1,6 @@
 <!-- Lightweight Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Vision+Research+Engineer;Dev+|+Learner+|+Maker" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=32&pause=1000&center=true&vCenter=true&width=500&lines=AI Research+Engineer;Dev+|+Learner+|+Maker" alt="Typing SVG"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mukand Krishna</h1>

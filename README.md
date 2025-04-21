@@ -1,11 +1,9 @@
 <!-- Lightweight Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Computer Vision Research+Engineer;Dev+|+Learner+|+Maker" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Vision+Research+Engineer;Dev+|+Learner+|+Maker" alt="Typing SVG"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mukand Krishna</h1>
-
----
 
 ## 🙋‍♂️ About Me
 
@@ -26,7 +24,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM Agents-6D5ACA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Agents-6D5ACA?style=for-the-badge" />
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -35,7 +33,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
@@ -73,7 +71,8 @@
 
 ---
 
-## 🤝 Connect With Me on LinkedIn
+## 🤝 Let's Connect!
+
 <p align="center">
   <a href="https://www.linkedin.com/in/beingkrishna"><img src="https://img.shields.io/badge/LinkedIn-BeingKrishna-blue?style=for-the-badge" /></a>
 </p>

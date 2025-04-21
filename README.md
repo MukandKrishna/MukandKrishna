@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/beingkrishna"><img src="https://img.shields.io/badge/LinkedIn-BeingKrishna-blue?style=for-the-badge" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-youremail%40example.com-red?style=for-the-badge" /></a>
+  <a href="mailto:mukandrathi111@gmail.com"><img src="https://img.shields.io/badge/Email-youremail%40example.com-red?style=for-the-badge" /></a>
 </p>
 
 <p align="center">

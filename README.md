@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a Computer Vision Research Assistant at [FAST Karachi](https://www.nu.edu.pk/) (Aug–Present 2024), working on real-time anomaly detection — building the **first-of-its-kind prototype in Pakistan**.  
+- 🔭 I’m a Computer Vision Research Engineer at [FAST Karachi](https://www.nu.edu.pk/) (Aug–Present 2024), working on real-time anomaly detection — building the **first-of-its-kind prototype in Pakistan**.  
 - 🌱 Currently exploring **Agentic AI**, **MLOps pipelines**, and **scalable microservices**.  
 - 💬 Ask me about **Docker**, **Kubernetes**, **TensorFlow**, **GCP**, and **AI Agents**.  
 - ⚡ Fun fact: I’m learning **Italian** and love language tech!

@@ -7,8 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 MS AI Student at University of Kent, England
-- 🔭 MlOps Developer at syslab.ai
+- 🔭 MS AI Student at University of Kent, England and MlOps Developer at syslab.ai (August 2025 - Present)
 - 🔭 Ex Computer Vision Research Engineer at [FAST Karachi](https://www.nu.edu.pk/) (Aug 2024 – July 2025), working on real-time anomaly detection — building the **first-of-its-kind prototype in Pakistan**.  
 - 🌱 Currently exploring **Agentic AI**, **MLOps pipelines**, and **scalable microservices**.  
 - 💬 Ask me about **Docker**, **Kubernetes**, **TensorFlow**, **GCP**, and **AI Agents**.  

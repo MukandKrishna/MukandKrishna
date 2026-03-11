@@ -12,7 +12,6 @@
 - 🌱 Currently exploring **Agentic AI**, **MLOps pipelines**, and **scalable microservices**.  
 - 💬 Ask me about **Docker**, **Kubernetes**, **TensorFlow**, **GCP**, and **AI Agents**.  
 - ⚡ Fun fact: I’m learning **Italian** and love language tech!
-
 ---
 
 ## 🚀 Tech Stack

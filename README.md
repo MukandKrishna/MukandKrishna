@@ -56,10 +56,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukandKrishna&theme=vue" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukandKrishna&show_icons=true&theme=vue" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukandKrishna&layout=compact&theme=vue" />
-</p>
 
 ---
 
